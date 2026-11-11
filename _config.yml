@@ -24,13 +24,13 @@ repository               : "BestGnhyeok/BestGnhyeok.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Park Geun Hyeok"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Busan"
+  employer         : "PKNU University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fireflower57@pukyong.ac.kr" 
 
   # Academic websites
   academia         : # URL
